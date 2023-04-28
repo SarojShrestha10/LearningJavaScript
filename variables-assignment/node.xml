@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+<version>6</version>
+<dict>
+  <key>title</key><string>variables-assignment</string>
+  <key>nodeid</key><string>b9d30c5a-68ca-4b08-b6b3-55b54ef8b3e8</string>
+  <key>modified_time</key><integer>1680538423</integer>
+  <key>version</key><integer>6</integer>
+  <key>content_type</key><string>text/xhtml+xml</string>
+  <key>created_time</key><integer>1680537421</integer>
+  <key>info_sort_dir</key><integer>1</integer>
+  <key>order</key><integer>13</integer>
+  <key>info_sort</key><string>order</string>
+</dict>
+</node>
