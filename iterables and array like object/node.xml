@@ -4,12 +4,12 @@
 <dict>
   <key>title</key><string>iterables and array like object</string>
   <key>nodeid</key><string>08f06a80-2608-4fd5-bd6c-87be0972cefc</string>
-  <key>modified_time</key><integer>1683094230</integer>
+  <key>modified_time</key><integer>1683223774</integer>
   <key>version</key><integer>6</integer>
   <key>content_type</key><string>text/xhtml+xml</string>
   <key>created_time</key><integer>1683092833</integer>
   <key>info_sort_dir</key><integer>1</integer>
-  <key>order</key><integer>15</integer>
+  <key>order</key><integer>6</integer>
   <key>info_sort</key><string>order</string>
 </dict>
 </node>
